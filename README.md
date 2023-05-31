@@ -13,5 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<br> <img src="https://visitor-badge.laobi.icu/badge?page_id=wnbhkr.wnbhkr"visitors" >
+-->## 📈 Stats
+
+<div align="center">
+    <br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=AjayRaut1.AjayRaut1" alt="visitors">
+</div>
+

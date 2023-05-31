@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <div align="center">
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=wnbhkr" alt="visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=wnbhkr.wnbhkr" alt="visitors">
 </div>
 
